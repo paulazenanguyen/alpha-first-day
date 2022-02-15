@@ -1,7 +1,7 @@
 # Markdown
--this is just a little practice  
--asdasdad  
--hello this is not a drill  
+- this is just a little practice  
+- asdasdad  
+- hello this is not a drill  
 
 
 #Inspiration
@@ -13,3 +13,11 @@ but i am **willing** to learn
 2. eat your veggies
 3. take some vitamins  
 **BOOM THERE YOU GO**
+
+# Unordered Lists   
+- First item  
+- Second item  
+- Third item  
+  - indented item  
+  - indente item  
+- Fourth item  
