@@ -8,8 +8,8 @@
 learning is so **hard**  
 but i am **willing** to learn  
 
-#What To Do To Stay Motivated
+# What To Do To Stay Motivated
 1. Be amazing
 2. eat your veggies
 3. take some vitamins
-**BOOM THERE YOU GO** 
+**BOOM THERE YOU GO**
