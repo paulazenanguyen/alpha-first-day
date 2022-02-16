@@ -32,3 +32,8 @@ but i am **willing** to learn
 2. he is cuddly
 3. he can dance
 4. he likes to go on walks during sunsets
+
+## Movies
+1. love rosie
+2. the last night in soho
+3. encanto
