@@ -27,7 +27,8 @@ but i am **willing** to learn
 - $ git branch - list all the branches on your local
 - create a new branch (checkout a new branch) - $ git checkout - b descriptive-branch-name
 
-## Movies that I like
-1. love rosie
-2. last night in soho
-3. hairspray
+## What do we like about our wonderful dog **Apollo**
+1. he is big
+2. he is cuddly
+3. he can dance
+4. he likes to go on walks during sunsets
