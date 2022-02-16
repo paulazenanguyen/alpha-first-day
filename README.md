@@ -21,3 +21,8 @@ but i am **willing** to learn
   - indented item  
   - indente item  
 - Fourth item  
+
+## Branching
+- What is branch? connection between local and remote
+- $ git branch - list all the branches on your local
+- create a new branch (checkout a new branch) - $ git checkout - b descriptive-branch-name
