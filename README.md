@@ -26,3 +26,8 @@ but i am **willing** to learn
 - What is branch? connection between local and remote
 - $ git branch - list all the branches on your local
 - create a new branch (checkout a new branch) - $ git checkout - b descriptive-branch-name
+
+## Movies that I like
+1. love rosie
+2. last night in soho
+3. hairspray
